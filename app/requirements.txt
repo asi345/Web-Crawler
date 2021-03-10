@@ -1,0 +1,6 @@
+Flask
+Flask-PyMongo
+requests
+beautifulsoup4
+datetime
+dnspython
