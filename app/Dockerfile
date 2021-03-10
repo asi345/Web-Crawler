@@ -1,6 +1,3 @@
-## @author İsmail Ata İnan
-# @brief Dockerfile for Flask application and its connection with Nginx webserver.
-
 FROM python:3.9-alpine
 
 LABEL MAINTAINER="Ata İnan <inanata15@gmail.com>"

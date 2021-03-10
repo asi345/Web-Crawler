@@ -1,6 +1,3 @@
-## @author İsmail Ata İnan
-# @brief Dockerfile for webserver setup
-
 FROM alpine:latest
 
 LABEL MAINTAINER="Ata İnan <inanata15@gmail.com>"

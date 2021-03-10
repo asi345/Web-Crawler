@@ -1,7 +1,3 @@
-## @file docker-compose.yml
-# @author İsmail Ata İnan
-# @brief Docker compose file to set up the containers necessary to run the web application.
-
 version: "3.9"
 services:
   flask:
