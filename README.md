@@ -13,12 +13,13 @@ start **index.html** file to open the documentation in your default web browser.
 
 ## Installation
 
-Firstly, [Docker](https://www.docker.com) and [Docker-Compose](https://docs.docker.com/compose/install/) is necessary since this is a Docker project. You can find the download links from the links and follow the setup procedures. After installing Docker, make sure the command     docker.     and     docker-compose.    is in the path.
+Firstly, [Docker](https://www.docker.com) and [Docker-Compose](https://docs.docker.com/compose/install/) is necessary since this is a Docker project. You can find the download links from the links and follow the setup procedures. After installing Docker, make sure the command     docker     and     docker-compose    is in the path.
 
 ## Run the Project
 
 To start the project, download this repository by
-    git clone https://github.com/asi345/Web-Crawler.
+
+    git clone https://github.com/asi345/Web-Crawler
 
 Then, head to the project directory by
     cd Web-Crawler
