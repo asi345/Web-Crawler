@@ -58,7 +58,7 @@ to use the database named **flaskdb**, so in the current account shell write the
 to connect to the database. Here, a user is required as the user of the database with given
 permissions. Create a user with the same username and password of **mongo** by the query
 
-   db.createUser({user: 'atabase', pwd: 'atabase', roles: [{role: 'readWrite', db: 'flaskdb'}]})
+    db.createUser({user: 'atabase', pwd: 'atabase', roles: [{role: 'readWrite', db: 'flaskdb'}]})
 
 This query is self explanatory, but just let me tell that it creates a new user with given
 credential. It has only permission to read from and write to the **flaskdb** database. But we need
