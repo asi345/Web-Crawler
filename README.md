@@ -40,7 +40,7 @@ the background so we can continue to configure project settings. The execution i
 authenticate and initialize the Mongo database. To do this, first start the **mongo** interactive
 shell in the Docker by the command
 
-    docker exec -it websearcher_mongodb_1 bash
+    docker exec -it web-crawler_mongodb_1 bash
 
 Now the mongo interactive shell is started. Here, log in to the database by using the command
 
